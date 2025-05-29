@@ -4,7 +4,7 @@ import ShoppingCart from './components/ShoppingCart';
 import productsData from './data/products.json';
 import './App.css';
 
-function App() {
+const App = () => {
   const [cartItems, setCartItems] = useState([]);
 
   const addToCart = (product) => {
@@ -42,6 +42,6 @@ function App() {
       </main>
     </div>
   );
-}
+};
 
 export default App;
