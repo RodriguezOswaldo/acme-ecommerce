@@ -1,0 +1,36 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "ACME Widget",
+      "price": 29.99,
+      "description": "A classic ACME widget, perfect for all your widget needs.",
+      "image": "https://via.placeholder.com/300",
+      "category": "Widgets"
+    },
+    {
+      "id": 2,
+      "name": "ACME Gizmo",
+      "price": 49.99,
+      "description": "The latest in ACME gizmo technology.",
+      "image": "https://via.placeholder.com/300",
+      "category": "Gizmos"
+    },
+    {
+      "id": 3,
+      "name": "ACME Doohickey",
+      "price": 19.99,
+      "description": "A versatile doohickey for any occasion.",
+      "image": "https://via.placeholder.com/300",
+      "category": "Doohickeys"
+    },
+    {
+      "id": 4,
+      "name": "ACME Thingamajig",
+      "price": 39.99,
+      "description": "The ultimate thingamajig from ACME.",
+      "image": "https://via.placeholder.com/300",
+      "category": "Thingamajigs"
+    }
+  ]
+}
