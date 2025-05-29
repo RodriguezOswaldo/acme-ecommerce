@@ -14,5 +14,11 @@
   ],
   "env": {
     "NODE_VERSION": "18"
+  },
+  "framework": "react",
+  "build": {
+    "env": {
+      "NODE_VERSION": "18"
+    }
   }
 }
